@@ -36,4 +36,4 @@ function criaSegundaFrase(num1, num2){
     return `Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20.`
 }
 
-console.log(comparaNumeros())
+console.log(comparaNumeros(4,4))
