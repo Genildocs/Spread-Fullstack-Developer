@@ -1,3 +1,6 @@
+// FUNÇÃO CALLBACKS
+// Uma função passada como argumento para outra. 
+
 const calc = function(operacao, num1, num2){
     return operacao(num1,num2);
 }
